@@ -3,7 +3,7 @@
 
 ## 📝 Descrição
 
-O **Fórum Hub** é um projeto inspirado no Fórum da Alura, desenvolvido como parte do desafio proposto pelo instrutor **Eric Monné**. O objetivo é criar uma aplicação onde os usuários possam:
+O **Fórum Hub** Desenvolvido como parte do desafio proposto pela Alura. O objetivo é criar uma aplicação onde os usuários possam:
 
 - Criar tópicos com título e mensagem.
 - Associar tópicos a cursos específicos.
